@@ -1,0 +1,22 @@
+{
+  "name": "ecoledirecte-bot-discord-maax",
+  "version": "1.0.0",
+  "description": "Un bot discord pour Ecoledirecte",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaaxCoder/Ecoledirecte-bot-discord.git"
+  },
+  "author": "Maax",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaaxCoder/Ecoledirecte-bot-discord/issues"
+  },
+  "homepage": "https://github.com/MaaxCoder/Ecoledirecte-bot-discord#readme",
+  "dependencies": {
+    "discord.js": "^13.1.0"
+  }
+}
